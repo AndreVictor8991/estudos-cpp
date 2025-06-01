@@ -1,0 +1,20 @@
+E01 = Escreva o valor 0 no escaninho E06
+E02 = Insira um valor no escaninho E07
+E03 = Se o valor de E07 for igual a -1 avance para E08
+E04 = Se o valor de E07 for maior ou igual a 60 adicione 1 ao valor de E06
+E05 = Volte para E02
+E06 = 
+E07 = 
+E08 = Imprima o valor de E06
+E09 = Pare
+
+Valor impresso: 
+
+Notas:
+
+*62
+*75
+*34
+*40
+*67
+*-1

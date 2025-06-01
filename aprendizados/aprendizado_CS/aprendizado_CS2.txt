@@ -1,0 +1,46 @@
+E01 = Insira o valor 1 ao escaninho E07 
+E02 = Escreva o valor 0 no escaninho E08
+E03 = Se o valor do escaninho E07 for maior que 31 vá para o escaninho E09
+E04 = Pegue um cartão e some seu valor ao escaninho E08
+E05 = Some um ao valor do escaninho E07
+E06 = Volte para o escaninho E03
+E07 = 32
+E08 = 7
+E09 = Divida o valor do escaninho E08 pelo valor do escaninho E07 e insira seu resultado no escaninho E08
+E10 = Imprima o valor do escaninho E08
+E11 = Pare
+
+Valor imprimido: 7
+
+Valores:
+*5
+*6
+*4
+*10
+*10
+*12
+*8
+*9
+*10
+*12
+*14
+*10
+*6
+*6
+*5
+*8
+*9
+*7
+*8
+*5
+*10
+*8
+*7
+*5
+*10
+*4
+*5
+*6
+*8
+*10
+*14
